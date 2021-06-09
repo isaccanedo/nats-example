@@ -1,4 +1,4 @@
-# NATS Example using JNats
+# Exemplo de NATS usando JNats
 
 ## Start Nats Server using Docker
 - Start Nats Server using Docker
